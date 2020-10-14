@@ -1,0 +1,1 @@
+This is first GIT project and used for test.  -DevOps/AWS Traning
